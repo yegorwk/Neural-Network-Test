@@ -1,1 +1,1 @@
-# Neural-Network-Test
+# Neural-Network-Test with sygmoid function
